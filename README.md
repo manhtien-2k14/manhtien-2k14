@@ -34,7 +34,6 @@
 ## 📫 Liên hệ
 - 🌐 GitHub: https://github.com/manhtien-2k14 (https://github.com/) 
 - 💬 Email: manhtien2k14@gmail.com
-- ☕ Cà phê mỗi sáng (kofi) : https://ko-fi.com/zweyx (https://github.com/manhtien-2k14)
 - 🥮 Teky : https://teky.edu.vn/profile/teky-379342 (https://teky.edu.vn/)
 
 ---
