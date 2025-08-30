@@ -25,9 +25,9 @@
 
 ## 🌟 Sở thích
 - 🎮 Tạo game nhỏ, web mini  
-- 📖 Khám phá công nghệ mới  
+- 📖 Học ngôn ngữ mới
 - 🖥 Học lập trình qua dự án thực tế  
-- ☕ Giữ tinh thần "full snack" để code luôn vui  
+- ☕ 1 chút coffee
 
 ---
 
